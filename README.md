@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+👀 I’m interested in Software Development, Cyber Security, and Cloud Technologies.🌱 I’m currently taking a course on Comptia to obtain badges and upskill myself.👯 I’m looking to collaborate on innovative projects that align with the fields I am interested in. 📫 How to reach me: malcolmtmukorera@outlook.com
 <!--
 **MalcolmMukorera/MalcolmMukorera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
